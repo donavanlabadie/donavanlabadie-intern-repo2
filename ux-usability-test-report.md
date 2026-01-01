@@ -1,0 +1,11 @@
+***What surprised you the most about how your test participant used the app?***
+
+My test participant mostly struggled to use the app, which came at a slight surprise to me. They said that they believe the front page of app is currently too complicated and overstimulating. While they were able to successfully navigate to the focusing page, they found it confusing to get to and unsure of why it was relegated to a separate tab since it is the main feature of the app. They said that while they enjoyed the features, they were quickly overstimulated by the amount of text prompts and amounts of work required to finish simple tasks. They opted to not set up any of the other features, but said they would be interested in doing so in the future.
+
+***Did they encounter any issues that you didn’t expect?***
+
+One of the major issues they encountered was the overall design of the app, as mentioned above. Not only did they find the app difficult to navigate and cluttered at times, they found the visuals uninteresting, and if anything, quite distracting. They said that the current color palette of black and orange with their phone in night mode did not feel either productive or encouraging, compared to what it could be in light mode. They also found that there was no real reward after finishing a focus session, and that the only real gain they experienced was the falling confetti— that then got stuck on their screen afterwards. They said that there should be a better hierarchy for text and coloring as well, as the current main page, while already complicated, yields a strong difficulty in understanding what is meant to be the most important.
+
+***How could this test improve your approach to UX design?***
+
+This test will improve my approach to UX design through my current understanding of how to structure and organize key features and visuals for products, features, and services. While some things may prove to be beneficial, like additional features and numerous text boxes, too many of these or not being able to immediately understand them makes a feature feel counterintuitive and difficult to use. They suggested that keeping it simple and straightforward was the best approach, and thus that is the design approach I will use try to best follow moving forward.
